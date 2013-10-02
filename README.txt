@@ -5,3 +5,4 @@ Git keeps track of changes of files.
 Creating a new branch is quick and simple.
 Dev branch modifies file first.
 Bug fix issue 102.
+Edit on master branch.
